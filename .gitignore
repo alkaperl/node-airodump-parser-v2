@@ -1,0 +1,6 @@
+node_modules
+gulp-tasks
+_doc
+app
+gulpfile.js
+.jshintrc
