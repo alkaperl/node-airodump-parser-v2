@@ -63,4 +63,4 @@ function init() {
 }
 ```
 
-For a full write up of what is happening, [check out an incredibly long blog post here](impracticalapplications.com/blog/nmapsocket.html).
+For a full write up of what is happening, [check out an incredibly long blog post here](http://impracticalapplications.com/blog/nmapsocket.html).
